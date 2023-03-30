@@ -1,0 +1,92 @@
+﻿Check list “Functionality of Youtube Homepage”
+
+
+1. Search field 
+1.1  Searching for a video using the search field in Cyrillic using the hotkey
+1.2  Searching for a video using the search field in Cyrillic using the mouse
+1.3  Searching for a video using the search field in Latin
+1.4  Entering special characters in the search field
+            1.5  Entering a long Cyrillic query in the search field
+            1.6  Entering a long Latin query in the search field
+            1.7   Entering the shortest possible Cyrillic query in the search field
+            1.8   Entering the shortest possible Latin query in the search field
+            1.9  Entering a short numerical query in the search field
+            1.10  Entering a space in the search field
+            1.11  Leaving the search field blank
+2. Filters
+           2.1  Applying the "Upload Date: Last Hour" filter to the video search
+           2.2  Applying the "Upload Date: Today" filter to the video search
+           2.3  Applying the "Upload Date: This Week" filter to the video search
+           2.4  Applying the "Upload Date: This Month" filter to the video search
+           2.5  Applying the "Upload Date: This Year" filter to the video search
+          2.6  Applying the "Type: Videos" filter to the video search
+          2.7  Applying the "Type: Channels" filter to the video search
+          2.8  Applying the "Type: Playlists" filter to the video search
+          2.9  Applying the "Type: Movies" filter to the video search
+          2.10  Applying the "Duration: Less than 4 minutes" filter to the video search
+           2.11  Applying the "Duration: 4 to 20 minutes" filter to the video search
+          2.12  Applying the "Duration: More than 20 minutes" filter to the video search
+          2.13  Applying the "Features: Live Stream" filter to the video search
+          2.14  Applying the "Features: 4K" filter to the video search
+         2.15  Applying the "Features: HD" filter to the video search
+         2.16  Applying the "Features: Subtitles" filter to the video search
+         2.17  Applying the "Sort By: Relevance" filter to the video search
+         2.18  Applying the "Sort By: Upload Date" filter to the video search
+         2.19  Applying the "Sort By: View Count" filter to the video search
+        2.20  Applying the "Sort By: Rating" filter to the video search
+        2.21  Applying two filters simultaneously to the video search: "Features: Subtitles"        and "Upload Date: This Year"
+        2.22  Applying three filters simultaneously to video search: "Features: Subtitles", "Upload date: this year", and "Type: Playlists"
+3. Video player features
+       3.1  Watching videos with subtitles
+      3.2  Turning off subtitles while watching videos
+      3.3  Applying 480p video quality when watching videos
+      3.4  Switching video quality from 480p to 1080p while watching videos
+      3.5  Applying 1.5x playback speed
+      3.6  Switching playback speed from 1.5x to 0.5x
+      3.7  Disabling annotations while watching videos
+     3.8  Turning off professional lighting during video playback
+     3.9  Using picture-in-picture viewing mode
+         3.10  Returning video from picture-in-picture viewing mode to standard mode
+         3.11  Turning off video playback in picture-in-picture viewing mode
+        3.12  Using "Wide screen" viewing mode
+        3.13  Using "Full screen" viewing mode
+       3.14  Returning from full screen viewing mode to standard mode using a hotkey
+        3.15  Viewing the video transcript during playback
+        3.16  Adding a video to the "Watch Later" playlist during playback
+        3.17  Enabling autoplay of videos during playback
+        3.18  Disabling autoplay of videos during playback
+
+
+4.      Subscription
+        4.1   Subscribing to a channel while watching a video
+        4.2  Unsubscribing from a channel while watching a video
+        4.3  Going to the channel page while watching a video
+5.       Video rating
+        5.1  Ability to like a video while watching it
+        5.2  Ability to dislike a video while watching it
+       5.3  Changing the rating of a video while watching it from "dislike" to "like"
+6.       Video sharing
+        6.1  Sharing a link to the video by copying the link
+        6.2  Sharing a link to the video via email
+        6.3  Sharing a link to the video on the "Vkontakte" profile wall
+       6.4  Sharing a link to the video on "Vkontakte" in a private message
+       6.5  Sharing a link to the video with a timecode by copying the link
+7.      Video reporting
+       7.1  Reporting "Terrorism propaganda" on the video
+       7.2  Reporting "Subtitle problems" on the video
+8.       Video clip
+        8.1  Creating a clip during video playback
+        8.2  Sharing a clip via email
+        8.3  Sharing a clip on a "Vkontakte" profile wall
+        8.4  Sharing a clip via "Vkontakte" in a private message
+      Posting a comment under the video during playback
+9.      Comments
+      9.1  Deleting a comment during video playback
+     9.2  Editing a comment during video playback
+     9.3  Ability to like a comment during video playback
+    9.4  Ability to dislike a comment during video playback
+    9.5  Changing the rating of a comment during video playback
+    9.6  Replying to a comment during video playback
+   9.7  Sorting comments under the video by popularity
+   9.8  Sorting comments under the video by novelty
+   9.9  Reporting a comment by a user for false information while watching a video
